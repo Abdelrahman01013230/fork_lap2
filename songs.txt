@@ -1,10 +1,32 @@
 
 
 
-Summing up, git commit saves repository changes on local but not remote repository. Contrarily, Git push then updates your git commit changes and sends it to remote repository. That is where where working developers will access the~ 
 
 
-[200~Commits are the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Summing up, git co
 
 
 
