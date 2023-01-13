@@ -1,1 +1,12 @@
-[200~Commits are the core building block units of a Git project timeline. Commits can be thought of as snapshots or milestones along the timeline of a Git project. Commits are created with the git commit command to capture the state of a project at that point in time.~ 
+
+
+
+Summing up, git commit saves repository changes on local but not remote repository. Contrarily, Git push then updates your git commit changes and sends it to remote repository. That is where where working developers will access the~ 
+
+
+[200~Commits are the
+
+
+
+
+ core building block units of a Git project timeline. Commits can be thought of as snapshots or milestones along the timeline of a Git project. Commits are created with the git commit command to capture the state of a project at that point in time.~ 
