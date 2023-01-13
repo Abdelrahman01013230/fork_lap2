@@ -1,1 +1,4 @@
+BIn version control systems, a commit is an operation which sends the latest changes of the source code to the repository, making these changes part of the head revision of the repository. Unlike commits in data management, commits in version control systems are kept in the repository indefinitely
+B
+B
 [200~Commits are the core building block units of a Git project timeline. Commits can be thought of as snapshots or milestones along the timeline of a Git project. Commits are created with the git commit command to capture the state of a project at that point in time.~ 
